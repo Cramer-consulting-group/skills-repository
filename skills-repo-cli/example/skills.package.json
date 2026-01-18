@@ -1,0 +1,19 @@
+{
+  "name": "@skills/example",
+  "displayName": "Example Skills",
+  "version": "1.0.0",
+  "description": "Example skills package for demonstration",
+  "provider": "example",
+  "license": "MIT",
+  "homepage": "https://example.com",
+  "skills": [
+    "skills/web-search",
+    "skills/reasoning"
+  ],
+  "categories": ["data", "ai"],
+  "dependencies": {},
+  "engines": {
+    "agent": ">=1.0",
+    "mcp": ">=0.3"
+  }
+}

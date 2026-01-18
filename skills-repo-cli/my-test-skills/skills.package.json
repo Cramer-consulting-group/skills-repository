@@ -1,0 +1,16 @@
+{
+  "name": "@my-test-skills",
+  "displayName": "my-test-skills Skills",
+  "version": "1.0.0",
+  "description": "A collection of agent skills",
+  "provider": "default",
+  "license": "MIT",
+  "homepage": "",
+  "skills": [],
+  "categories": [],
+  "dependencies": {},
+  "engines": {
+    "agent": ">=1.0",
+    "mcp": ">=0.3"
+  }
+}

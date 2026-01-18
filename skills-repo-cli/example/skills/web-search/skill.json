@@ -1,0 +1,23 @@
+{
+  "id": "web-search",
+  "name": "Web Search",
+  "description": "Search the public web",
+  "version": "1.0.0",
+  "categories": [
+    {
+      "id": "data",
+      "name": "Data Processing",
+      "children": [
+        {
+          "id": "web-search",
+          "name": "Web Search"
+        }
+      ]
+    }
+  ],
+  "tags": ["search", "web", "realtime"],
+  "entry": {
+    "type": "http",
+    "ref": "./impl/handler"
+  }
+}

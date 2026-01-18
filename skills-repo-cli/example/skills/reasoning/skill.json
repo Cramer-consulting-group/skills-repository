@@ -1,0 +1,23 @@
+{
+  "id": "reasoning",
+  "name": "Reasoning",
+  "description": "Advanced reasoning and chain-of-thought capabilities",
+  "version": "1.0.0",
+  "categories": [
+    {
+      "id": "ai",
+      "name": "Artificial Intelligence",
+      "children": [
+        {
+          "id": "reasoning",
+          "name": "Reasoning"
+        }
+      ]
+    }
+  ],
+  "tags": ["reasoning", "ai", "thinking"],
+  "entry": {
+    "type": "http",
+    "ref": "./impl/handler"
+  }
+}

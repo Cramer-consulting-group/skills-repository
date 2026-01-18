@@ -1,0 +1,16 @@
+{
+  "name": "@skills-repo/cli",
+  "displayName": "Skills Repo CLI",
+  "version": "1.0.0",
+  "description": "Agent Skills Repository CLI Tool",
+  "provider": "skills-repo",
+  "license": "MIT",
+  "homepage": "https://github.com/skills-repo/cli",
+  "skills": [],
+  "categories": ["tools"],
+  "dependencies": {},
+  "engines": {
+    "agent": ">=1.0",
+    "mcp": ">=0.3"
+  }
+}
